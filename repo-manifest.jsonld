@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/sphinx-tomyst/commit/b0eeecc787d74681ab3cfeff41d22aa9e56c11c5",
       "git:hexsha": "b0eeecc787d74681ab3cfeff41d22aa9e56c11c5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/executablebooks/sphinx-tomyst/commit/4e38698102e09dc6e953a0a057d9ce856b32412a",
